@@ -1,0 +1,1 @@
+Single player game, check image to know where the snakes and ladders are :)
