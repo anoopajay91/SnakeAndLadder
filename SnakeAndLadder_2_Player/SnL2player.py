@@ -1,3 +1,9 @@
+#################################
+#                               #
+#     Author: Anoop S           #
+#                               #
+#################################
+
 import random
 
 user1 = raw_input("enter user1's name ")
